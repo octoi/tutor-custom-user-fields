@@ -1,0 +1,3 @@
+OPENEDX_COMMON_SETTINGS:
+  ADDL_INSTALLED_APPS:
+    - custom_user_fields
